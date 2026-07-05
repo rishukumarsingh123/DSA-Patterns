@@ -15,4 +15,4 @@
 |   7  |     88     | Merge Sorted Array                  |    Easy    |    ✅   |
 |   8  |     167    | Two Sum II - Input Array Is Sorted  |   Medium   |    ✅   |
 |   9  |     977    | Squares of a Sorted Array           |    Easy    |    ✅   |
-|  10  |    1089    | Duplicate Zeros                     |    Easy    |    ⬜   |
+|  10  |    1089    | Duplicate Zeros                     |    Easy    |    ✅   |
